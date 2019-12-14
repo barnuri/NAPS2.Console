@@ -1,0 +1,10 @@
+node_modules
+dist
+build
+bin
+obj
+**/bin
+**/obj
+**/.toolstarget
+**/sqlite3
+**/.vs

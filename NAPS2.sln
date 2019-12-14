@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAPS2.Core", "NAPS2.Core\NAPS2.Core.csproj", "{968378FA-A649-4058-A928-1FCD97B23070}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAPS2.Console", "NAPS2.Console\NAPS2.Console.csproj", "{2A321772-75B2-4601-A718-AF0A2370E6A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAPS2", "NAPS2\NAPS2.csproj", "{EAC4A133-93BE-4400-BFA9-CEB1615693C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		InstallerEXE|x86 = InstallerEXE|x86
+		InstallerMSI|x86 = InstallerMSI|x86
+		Standalone7Z|x86 = Standalone7Z|x86
+		StandaloneZIP|x86 = StandaloneZIP|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{968378FA-A649-4058-A928-1FCD97B23070}.Debug|x86.ActiveCfg = Debug|x86
+		{968378FA-A649-4058-A928-1FCD97B23070}.Debug|x86.Build.0 = Debug|x86
+		{968378FA-A649-4058-A928-1FCD97B23070}.InstallerEXE|x86.ActiveCfg = InstallerEXE|x86
+		{968378FA-A649-4058-A928-1FCD97B23070}.InstallerEXE|x86.Build.0 = InstallerEXE|x86
+		{968378FA-A649-4058-A928-1FCD97B23070}.InstallerMSI|x86.ActiveCfg = InstallerMSI|x86
+		{968378FA-A649-4058-A928-1FCD97B23070}.InstallerMSI|x86.Build.0 = InstallerMSI|x86
+		{968378FA-A649-4058-A928-1FCD97B23070}.Standalone7Z|x86.ActiveCfg = Standalone7Z|x86
+		{968378FA-A649-4058-A928-1FCD97B23070}.Standalone7Z|x86.Build.0 = Standalone7Z|x86
+		{968378FA-A649-4058-A928-1FCD97B23070}.StandaloneZIP|x86.ActiveCfg = StandaloneZIP|x86
+		{968378FA-A649-4058-A928-1FCD97B23070}.StandaloneZIP|x86.Build.0 = StandaloneZIP|x86
+		{2A321772-75B2-4601-A718-AF0A2370E6A8}.Debug|x86.ActiveCfg = Debug|x86
+		{2A321772-75B2-4601-A718-AF0A2370E6A8}.Debug|x86.Build.0 = Debug|x86
+		{2A321772-75B2-4601-A718-AF0A2370E6A8}.InstallerEXE|x86.ActiveCfg = Debug|x86
+		{2A321772-75B2-4601-A718-AF0A2370E6A8}.InstallerEXE|x86.Build.0 = Debug|x86
+		{2A321772-75B2-4601-A718-AF0A2370E6A8}.InstallerMSI|x86.ActiveCfg = Debug|x86
+		{2A321772-75B2-4601-A718-AF0A2370E6A8}.InstallerMSI|x86.Build.0 = Debug|x86
+		{2A321772-75B2-4601-A718-AF0A2370E6A8}.Standalone7Z|x86.ActiveCfg = Debug|x86
+		{2A321772-75B2-4601-A718-AF0A2370E6A8}.Standalone7Z|x86.Build.0 = Debug|x86
+		{2A321772-75B2-4601-A718-AF0A2370E6A8}.StandaloneZIP|x86.ActiveCfg = Debug|x86
+		{2A321772-75B2-4601-A718-AF0A2370E6A8}.StandaloneZIP|x86.Build.0 = Debug|x86
+		{EAC4A133-93BE-4400-BFA9-CEB1615693C4}.Debug|x86.ActiveCfg = Debug|x86
+		{EAC4A133-93BE-4400-BFA9-CEB1615693C4}.Debug|x86.Build.0 = Debug|x86
+		{EAC4A133-93BE-4400-BFA9-CEB1615693C4}.InstallerEXE|x86.ActiveCfg = InstallerEXE|x86
+		{EAC4A133-93BE-4400-BFA9-CEB1615693C4}.InstallerEXE|x86.Build.0 = InstallerEXE|x86
+		{EAC4A133-93BE-4400-BFA9-CEB1615693C4}.InstallerMSI|x86.ActiveCfg = InstallerMSI|x86
+		{EAC4A133-93BE-4400-BFA9-CEB1615693C4}.InstallerMSI|x86.Build.0 = InstallerMSI|x86
+		{EAC4A133-93BE-4400-BFA9-CEB1615693C4}.Standalone7Z|x86.ActiveCfg = Standalone7Z|x86
+		{EAC4A133-93BE-4400-BFA9-CEB1615693C4}.Standalone7Z|x86.Build.0 = Standalone7Z|x86
+		{EAC4A133-93BE-4400-BFA9-CEB1615693C4}.StandaloneZIP|x86.ActiveCfg = StandaloneZIP|x86
+		{EAC4A133-93BE-4400-BFA9-CEB1615693C4}.StandaloneZIP|x86.Build.0 = StandaloneZIP|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13AA5488-2FCC-4C69-8DB1-E2A999CB2523}
+	EndGlobalSection
+EndGlobal
